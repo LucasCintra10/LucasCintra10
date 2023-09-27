@@ -1,4 +1,4 @@
-  <p align="center">Front-End Developer</p>
+  <h2 align="center">Front-End Developer</h2>
   
   <div align="center">
   <a href="https://github.com/LucasCintra10">
