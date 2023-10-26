@@ -14,7 +14,7 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/visumi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=visumi&show_icons=true&theme=jolly&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visumi&layout=compact&langs_count=7&theme=jolly&hide_border=true"/>
+  <a href="https://github.com/rafaelcf00">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelcf00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaelcf00&layout=compact&langs_count=7&theme=dark"/>
 </div>
